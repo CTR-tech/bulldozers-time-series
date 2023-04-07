@@ -2,3 +2,5 @@ test.ipynb
 /data
 /data/*
 bulldozer_RandomForestRegressor_1.joblib
+/models
+/models/*
